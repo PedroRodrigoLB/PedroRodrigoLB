@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**PedroRodrigoLB/PedroRodrigoLB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Pedro Rodrigo Leal de Barros
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +7,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroRodrigoLB&show_icons=true&theme=buefy&rank_icon=github&include_all_commits=true" />
+  
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodrigoLB&layout=compact&theme=buefy" />
+
+
+</div>
