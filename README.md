@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-leal-barros/)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-red?style=flat&logo=appveyor)](https://seu-portfolio.com)  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroRodrigoLB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodrigoLB&layout=compact&theme=buefy&hide_border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroRodrigoLB&show_icons=true&include_all_commits=true&theme=buefy&border=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodrigoLB&layout=compact&theme=buefy&border=true)
 
 
