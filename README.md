@@ -14,6 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-leal-barros/)  
 [![Portfólio](https://img.shields.io/badge/-Portfólio-red?style=flat&logo=appveyor)](https://seu-portfolio.com)  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroRodrigoLB&show_icons=true&theme=dark)
 
 
