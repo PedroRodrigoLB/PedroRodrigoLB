@@ -15,5 +15,6 @@
 [![Portfólio](https://img.shields.io/badge/-Portfólio-red?style=flat&logo=appveyor)](https://seu-portfolio.com)  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroRodrigoLB&show_icons=true&theme=dark)
+<a href="https://github.com/PedroRodrigoLB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroRodrigoLB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/PedroRodrigoLB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodrigoLB&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
